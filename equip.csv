@@ -1,0 +1,5 @@
+id,dis,equip,siteRef,spaceRef
+@engielab.evapcondens4,Batiment K Evaporative Condenser,YES,@engielab,@floor1
+@engielab.electpanel,Batiment K Electric Pane,YES,@engielab,@floor0
+@engielab.waterchiller,Batiment K Water Chiller,YES,@engielab,@floor1
+@engielab.heatExchanger,Batiment K Heat Exchanger,YES,@engielab,@floor0
